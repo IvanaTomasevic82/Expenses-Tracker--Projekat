@@ -1,0 +1,49 @@
+{
+  "submitButton": "Submit",
+  "findByDateRange": "Find by date range:",
+  "randomDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit amet.",
+  "randomComment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "loginPage": {
+    "mainHeader": "Expenses Tracker App",
+    "loginLabel": "Login",
+    "emailLabel": "Email",
+    "passwordLabel": "Password"
+  },
+  "expensesPage": {
+    "expensesList": "Expenses List",
+    "findByDateRange": "Find by date range:",
+    "findByDescriptionOrComment": "Find by description or comment:",
+    "date": "Date",
+    "time": "Time",
+    "description": "Description",
+    "amount": "Amount",
+    "comment": "Comment",
+    "edit": "Edit",
+    "delete": "Delete",
+    "hello": "Hello ",
+    "currentlyNoExpenses": "Currently no expenses!"
+  },
+  "mainNavigationBar": {
+    "mainHeaderLink": "Expenses",
+    "addNewExpenseLink": "Add new expense",
+    "logOut": "Logout"
+  },
+  "addNewExpense": {
+    "mainHeader": "Add new expense",
+    "date": "Date*",
+    "time": "Time",
+    "description": "Description*",
+    "spentAmount": "Spent amount*",
+    "comment": "Comment",
+    "submitButton": "Submit",
+    "backToListLink": "Back to list"
+  },
+  "vslidationMessages": {
+    "expenseCreatedSuccessfully": "Expense created successfully",
+    "dateIsRequired": "Date is required",
+    "descriptionIsRequired": "Description is required",
+    "amountIsRequired": "Amount is required",
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required"
+  }
+}
